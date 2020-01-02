@@ -1,0 +1,1 @@
+add_executable(orbDetector main.cpp)
